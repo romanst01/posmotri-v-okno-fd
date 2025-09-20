@@ -168,7 +168,7 @@ ol {
 }
 .content__video-card-description {
   line-height: 16.2px;
-  line-clamp: inherit;
+  -webkit-line-clamp: 4;
 }
 .visually-hidden {
   position: absolute;
