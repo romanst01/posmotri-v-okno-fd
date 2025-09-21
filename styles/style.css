@@ -68,7 +68,7 @@ ol {
 .content__details {
   display: flex;
   flex-direction: column;
-  width: 399px;
+  width: 401px;
   height: 100%;
   gap: 18px;
 }
@@ -88,7 +88,6 @@ ol {
   display: flex;
   flex-direction: column;
   gap: 30px;
-  overflow-x: hidden;
 }
 
 .result {
@@ -184,7 +183,7 @@ ol {
   font-weight:700 ;
   text-transform: uppercase;
   text-overflow: ellipsis;
-  max-width: 200px;
+  max-width: 196px;
   overflow: hidden;
   font-family: "Oswald", sans-serif;
 }
@@ -344,7 +343,6 @@ ol {
 .more-button {
   width: 393px;
   min-height: 34px;
-  padding-top: 0;
   margin: 2px;
 }
 
