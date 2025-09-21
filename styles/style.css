@@ -68,7 +68,7 @@ ol {
 .content__details {
   display: flex;
   flex-direction: column;
-  width: 100%;
+  width: 399px;
   height: 100%;
   gap: 18px;
 }
@@ -88,11 +88,11 @@ ol {
   display: flex;
   flex-direction: column;
   gap: 30px;
+  overflow-x: hidden;
 }
 
 .result {
   padding-top: 78px;
-  padding-left: 5px;
 }
 
 .result__video-container {
